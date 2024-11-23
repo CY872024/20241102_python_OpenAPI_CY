@@ -51,6 +51,19 @@ Add command prompt
 - [Extensions] install jupyter
 create folder lesson2 > create file lesson2_1.ipynb
 
+
+- [Extensions] install Docstring  
+To get this extension:
+Open Visual Studio Code.
+Click the button on the far left menu that looks like 4 squares with one square being disconnected from the others. This is the extension tab.
+Search “autoDocstring” in the search bar.
+Click install. This automatically enables the autoDocstring extension.
+Type, Ctrl + Shift + P to open the Visual Studio Code Command Palette.
+Search for “Preferences: Open User Settings” and hit Enter.
+In the search bar for extensions, search for “autoDocstring” and hit Enter.
+Under the “Auto Docstring: Docstring Format” setting, select the NumPy docstring format.
+
+
 cls
 
 
@@ -123,3 +136,15 @@ YouBike臺北市公共自行車即時資訊介接網址為
 https://tcgbusfs.blob.core.windows.net/dotapp/youbike/v2/youbike_immediate.json
 
 Facebook - Meta Open Source
+
+
+
+
+
+/*******************************************************
+[Python]
+*******************************************************/
+Python 標準函式庫 (Standard Library)
+-內建函式
+-內建常數
+-內建型別
