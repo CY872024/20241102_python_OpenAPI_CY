@@ -33,10 +33,12 @@ Clone repo from internet
 git config --global user.name "CY872024"
 git config --global user.email "lcy872024@gmail.com"
 git config --global pull.rebase false
-- [Extensions] install Dev Container
+
+- [Extensions] install Dev Container (docker has to be installed)
 Open a remote window > Add Dev Container Configuratrion files > Add Configuratrion  to wrokspace
  - Mini conda (python 3) devcontainers
  - git (from source) devcontainers
+ - vscode server (auto-installed)
 
 Open a remote window > Reopen in container
 
@@ -99,7 +101,7 @@ Changes > added the file to "Staged Changes"
 Add comment and commit
 
 Go to GitHub repository
-
+.gitignore
 
 /*******************************************************
 [Python Env]
