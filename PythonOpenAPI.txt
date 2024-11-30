@@ -21,6 +21,8 @@ https://github.com/roberthsu2003/python
 [Optional]==GitHub Desktop==
 Clone repo from internet
 
+
+
 ==Install vscode ==
 - Light modern
 - [Manage] > [Palette] > Configure display language
@@ -30,6 +32,7 @@ Clone repo from internet
 - reload
 - clone Repository  This PC/Documents/GitHub
 - [Terminal] - New Terminal - Set default profile: cmd
+git config --list
 git config --global user.name "CY872024"
 git config --global user.email "lcy872024@gmail.com"
 git config --global pull.rebase false
@@ -150,3 +153,10 @@ Python 標準函式庫 (Standard Library)
 -內建函式
 -內建常數
 -內建型別
+
+
+/*******************************************************
+[Git web]
+*******************************************************/
+```python
+```

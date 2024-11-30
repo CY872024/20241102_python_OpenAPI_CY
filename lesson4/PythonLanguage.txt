@@ -1,3 +1,14 @@
 __main__
 __tools__
 __widgt__
+
+Class
+-attribute
+-method
+
+python 
+-List（串列）
+https://docs.python.org/zh-tw/3/tutorial/datastructures.html#more-on-lists
+-dict()dictionary
+-Set（集合）
+
