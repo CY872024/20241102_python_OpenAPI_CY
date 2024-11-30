@@ -160,3 +160,19 @@ Python 標準函式庫 (Standard Library)
 *******************************************************/
 ```python
 ```
+
+/*******************************************************
+[streamlit]
+*******************************************************/
+pip --version
+pip list
+
+pip install streamlit
+clear
+pip list
+
+pip install -r requirements.txt
+
+
+streamlit hello
+streamlit run lesson5_6_streamlit.py
