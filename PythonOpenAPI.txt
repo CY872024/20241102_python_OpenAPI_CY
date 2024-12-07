@@ -177,7 +177,7 @@ pip install -r requirements.txt
 streamlit hello
 streamlit run lesson5_6_streamlit.py
 
-
+streamlit run lesson6_4_Streamlit.py
 
 /*******************************************************
 [openPyXl]
