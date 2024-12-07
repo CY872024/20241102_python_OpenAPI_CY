@@ -176,3 +176,15 @@ pip install -r requirements.txt
 
 streamlit hello
 streamlit run lesson5_6_streamlit.py
+
+
+
+/*******************************************************
+[openPyXl]
+*******************************************************/
+requirements.txt
+streamlit
+openpyxl
+
+(base) C:\Users\cylee\Documents\GitHub\20241102_python_OpenAPI_CY>
+pip install -r requirements.txt
